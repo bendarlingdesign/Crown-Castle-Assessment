@@ -2,7 +2,7 @@
 
 ### Prereqs
 
-I used VSCode, python, selenium, and specifcally the pytest library.
+I used VSCode, python, selenium, and specifically the pytest library.
 
 I needed to install Chrome WebDriver, the "webdriver_manager' library will help automatically download and manage the Chrome WebDriver for the user. 
 This is a more convenient and future-proof way to handle WebDriver paths and versions. Make sure you have the webdriver_manager library installed by running (pip install webdriver-manager) if you haven't already.
