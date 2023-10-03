@@ -1,0 +1,9 @@
+2023-10-03 10:12:19,677 - INFO: Step 1: Navigating to https://deckofcardsapi.com/
+2023-10-03 10:12:20,175 - INFO: Response status code: 200 (OK)
+2023-10-03 10:12:20,175 - INFO: Step 3: Got a new deck with ID: o9ioc76o4ae1
+2023-10-03 10:12:20,535 - INFO: Response status code: 200 (OK)
+2023-10-03 10:12:20,535 - INFO: Step 4: Shuffled the deck: True
+2023-10-03 10:12:20,965 - INFO: Response status code: 200 (OK)
+2023-10-03 10:12:20,966 - INFO: Step 5: Dealt cards - Player 1 Cards: ['AD', '6C', '4D']
+2023-10-03 10:12:20,966 - INFO:                   Player 2 Cards: ['5D', '9C', '2C']
+2023-10-03 10:12:20,966 - INFO: Step 7: No one has blackjack.

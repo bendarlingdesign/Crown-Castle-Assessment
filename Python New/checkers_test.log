@@ -1,0 +1,7 @@
+2023-10-03 10:12:34,386 - INFO - Executing: C:\Python310\lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser firefox --output json
+2023-10-03 10:12:39,710 - INFO - Test case 'test_checkers_game' started.
+2023-10-03 10:12:41,665 - INFO - Step 2: Site is up and running.
+2023-10-03 10:12:41,673 - INFO - No valid moves left.
+2023-10-03 10:12:42,949 - INFO - Step 3c: Game restarted.
+2023-10-03 10:12:42,950 - INFO - Step 3d: Game restarted successfully.
+2023-10-03 10:12:42,950 - INFO - Test case 'test_checkers_game' completed.
